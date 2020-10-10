@@ -19,6 +19,8 @@ h = 0.2
 A = 1 # Value of A at which we need approximation 
 euler(A0, B0, h, A)
 
+print("this is Newmodel file at Master branch")
+
 
 
 
