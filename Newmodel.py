@@ -26,4 +26,3 @@ print("this is Newmodel file at Master branch")
 
 
 
-
