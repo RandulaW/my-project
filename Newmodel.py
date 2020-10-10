@@ -21,8 +21,6 @@ euler(A0, B0, h, A)
 
 print("this is Newmodel file at Master branch")
 
-print("My new Model file at RandulaQ-patch-1 branch")
-
 
 
 
